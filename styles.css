@@ -18,17 +18,17 @@ body {
 }
 
 .btn {
-  margin: 25px;
+  margin: 29px;
   display: inline-block;
   height: 200px;
-  width: 200px;
+  width: 210px;
   border: 10px solid black;
   border-radius: 20%;
 }
 
 .game-over {
   background-color: #A460ED;
-  opacity: 0.8;
+  opacity: 0.1;
 }
 
 .red {
