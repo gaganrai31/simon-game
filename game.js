@@ -1,6 +1,6 @@
 $("h1").css("color", "white");
 
-var buttonColors = ["red", "blue", "green", "yellow"];
+var buttonColors = ["red", "blue", "orange", "yellow"];
 
 var gamePattern = [];
 var userClickedPattern = [];
